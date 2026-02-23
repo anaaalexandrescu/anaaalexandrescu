@@ -1,4 +1,4 @@
-# Hi, I'm Ana 👋
+# Hi, I'm Ana!
 
 Third-year CS student at the Faculty of Automatic Control and Computer Science, Politehnica Bucharest.
 
